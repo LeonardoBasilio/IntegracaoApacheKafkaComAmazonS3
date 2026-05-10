@@ -25,6 +25,7 @@ Kafka Connect S3 Sink Connector
    ↓
 Amazon S3
 ```
+![Arquitetura](./img/arquitetura.png)
 
 ### Componentes utilizados
 
